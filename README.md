@@ -20,5 +20,7 @@
   <a href="https://github.com/felipesanderp/dashgo/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/felipesanderp/dashgo.svg">
   </a>
+    
+  <img alt="GitHub" src="https://img.shields.io/github/license/felipesanderp/dashgo">
    
 </p>
