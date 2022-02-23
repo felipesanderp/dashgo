@@ -5,6 +5,7 @@ import { SubmitHandler, useForm } from 'react-hook-form';
 
 import { Input } from '../components/Form/Input';
 import { useRouter } from 'next/router';
+import Head from 'next/head';
 
 type SignInFormData = {
   email: string;
@@ -31,6 +32,11 @@ export default function Home() {
   }
 
   return (
+    <>
+    <Head>
+      <title>dashgo</title>
+    </Head>
+    
    <Flex 
     w="100vw" 
     h="100vh" 
@@ -77,5 +83,6 @@ export default function Home() {
       </Button>
      </Flex>
    </Flex>
+   </>
   )
 }
