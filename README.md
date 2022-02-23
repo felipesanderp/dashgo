@@ -26,9 +26,17 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href"=#sparkles-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+## :rocket: Tecnologias
+
+## :sparkles: Features
+- [x] Cadastro de usuáario
+- [ ] Salvar usuários em uma base de dados
+- [ ] Login com usuário e senha
 
 ## :information_source: Como usar
 
