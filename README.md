@@ -36,7 +36,7 @@
 Esse projeto foi desenvolvido como parte do curso [**Ignite**](https://www.rocketseat.com.br/ignite) da Rocketseat, com as seguintes tecnologias:
 
 - [Next.js](https://nextjs.org/)
-- [Chakra UI] (https://chakra-ui.com/)
+- [Chakra UI](https://chakra-ui.com/)
 - [ApexCharts.js](https://apexcharts.com/)
 - [mirajejs](https://miragejs.com/)
 - [axios](https://github.com/axios/axios)
