@@ -35,12 +35,14 @@
 
 Esse projeto foi desenvolvido como parte do curso [**Ignite**](https://www.rocketseat.com.br/ignite) da Rocketseat, com as seguintes tecnologias:
 
-- [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Chakra UI] (https://chakra-ui.com/)
+- [ApexCharts.js](https://apexcharts.com/)
 - [mirajejs](https://miragejs.com/)
-- [react-modal](https://github.com/reactjs/react-modal)
 - [axios](https://github.com/axios/axios)
-- [styled-components](https://styled-components.com/)
-- [polished-js](https://polished.js.org/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [yup](https://github.com/jquense/yup)
 - [VSCode](https://code.visualstudio.com/)
 
 ## :sparkles: Features
