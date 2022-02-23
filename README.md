@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido como parte do curso [**Ignite**](https://www.rocke
 - [Next.js](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [ApexCharts.js](https://apexcharts.com/)
-- [mirajejs](https://miragejs.com/)
+- [mirajeJS](https://miragejs.com/)
 - [axios](https://github.com/axios/axios)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
